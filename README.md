@@ -1,6 +1,9 @@
 ### :smile: Hello, welcome to my GitHub! 👋
 
-My name is César Augusto and I am studant at [Rocketseat](https://www.rocketseat.com.br)
+My name is César Augusto. <br>
+:mortar_board: I'm graduated in Computer Engeneering. <br>
+:computer: I'm student at [Rocketseat](https://www.rocketseat.com.br).
+
 
 ### :sparkles: Always learning
 :heavy_check_mark: Java, JavaScript, HTML, and CSS <br>

@@ -6,7 +6,7 @@ My name is César Augusto. <br>
 
 
 ### :sparkles: Always learning
-:heavy_check_mark: Java, JavaScript, HTML, and CSS <br>
+:heavy_check_mark: JavaScript, HTML, and CSS <br>
 :books: I learning daily about Node.Js, React JS, React Native and TypeScript.
 
 ### 💬 Ask me about

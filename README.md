@@ -2,7 +2,6 @@
 
 My name is César Augusto. <br>
 :mortar_board: I'm graduated in Computer Engeneering. <br>
-:computer: I'm student at [Rocketseat](https://www.rocketseat.com.br).
 
 
 ### :sparkles: Always learning
@@ -10,7 +9,7 @@ My name is César Augusto. <br>
 :books: I learning daily about Node.Js, React JS, React Native and TypeScript.
 
 ### 💬 Ask me about
-Ask me about Node.Js.
+Ask me about React Js and Node.Js.
 
 ### 🔭 My goals
 - Work more on own projects
